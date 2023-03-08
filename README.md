@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm NAGENDRA VOORA</h1>
 <h3 align="center">A passionate Software Developer and Data Scientist</h3>
-<img align="right" alt="coding and datascience" width="500" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
+<img align="right" alt="coding and datascience" width="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw2GIR10zTsLa-LmcrWPel59&ust=1678343857458000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJid-aXcy_0CFQAAAAAdAAAAABAX">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vooranagendra&label=Profile%20views&color=0e75b6&style=flat" alt="vooranagendra" /> </p>
 - 🌱 I’m currently learning **Deep Learning,PowerBi**
 
