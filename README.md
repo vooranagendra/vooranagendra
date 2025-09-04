@@ -12,9 +12,8 @@
 ### 🌱 Currently Learning  
 - Deep Learning for Computer Vision  
 - Big Data Visual Analytics  
-- Algorithmic Information Theory  
-- Sensing Communication for Smart Devices  
-
+- Large Language Models 
+-Algorithms
 ---
 
 ### 👨‍💻 Projects  
